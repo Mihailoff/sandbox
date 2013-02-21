@@ -1,2 +1,2 @@
 lorem, ipsum
-bravo, lorem
+bravo, lorem, ipsum
