@@ -2,4 +2,4 @@ squash2
 feature_a1, lorem, ipsum
 master, lorem, ipsum
 ipsum, lorem
-amend
+rebase3
