@@ -1,3 +1,2 @@
-lorem, ipsum
 feature_a1, lorem, ipsum
 master, lorem, ipsum
